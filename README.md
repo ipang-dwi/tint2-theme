@@ -2,6 +2,8 @@
 My Desktop Theme Backup
 
 # 1 - Gundam
-If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot 1](https://raw.githubusercontent.com/ipang-dwi/tint2-theme/master/gundam/screenshot/gundam.png)
+![Screenshot 2](https://raw.githubusercontent.com/ipang-dwi/tint2-theme/master/gundam/screenshot/gundam2.png)
+![Screenshot 3](https://raw.githubusercontent.com/ipang-dwi/tint2-theme/master/gundam/screenshot/gundam3.png)
+![Screenshot 4](https://raw.githubusercontent.com/ipang-dwi/tint2-theme/master/gundam/screenshot/gundam4.png)
